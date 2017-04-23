@@ -1,0 +1,45 @@
+<svg height="670" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="670" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-23 10:52:21 +0000  1677486 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-23 10:52:21 +0000    15653 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-23 10:52:21 +0000     1045 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-23 10:52:21 +0000     9296 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-23 10:52:21 +0000      493 bytes  barcodescanner.android.d.ts</tspan>
+<tspan x="10" y="106">  5.  2017-04-23 10:52:21 +0000     9967 bytes  barcodescanner.android.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-23 10:52:21 +0000     1241 bytes  barcodescanner.common.d.ts</tspan>
+<tspan x="10" y="138">  7.  2017-04-23 10:52:21 +0000       14 bytes  barcodescanner.common.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-23 10:52:21 +0000      607 bytes  barcodescanner.ios.d.ts</tspan>
+<tspan x="10" y="170">  9.  2017-04-23 10:52:21 +0000    12286 bytes  barcodescanner.ios.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-23 10:52:21 +0000       41 bytes  index.d.ts</tspan>
+<tspan x="10" y="202"> 11.  2017-04-23 10:52:21 +0000     2074 bytes  package.json</tspan>
+<tspan x="10" y="218"> 12.  2017-04-23 10:52:21 +0000      917 bytes  platforms/android/AndroidManifest.xml</tspan>
+<tspan x="10" y="234"> 13.  2017-04-23 10:52:21 +0000   996801 bytes  platforms/android/barcodescanner-release-2.1.5.a\</tspan>
+<tspan x="10" y="250">ar</tspan>
+<tspan x="10" y="266"> 14.  2017-04-23 10:52:21 +0000   590780 bytes  platforms/ios/BarcodeScannerFramework.framework/\</tspan>
+<tspan x="10" y="282">BarcodeScannerFramework</tspan>
+<tspan x="10" y="298"> 15.  2017-04-23 10:52:21 +0000      388 bytes  platforms/ios/BarcodeScannerFramework.framework/\</tspan>
+<tspan x="10" y="314">Headers/BarcodeScannerFramework.h</tspan>
+<tspan x="10" y="330"> 16.  2017-04-23 10:52:21 +0000      939 bytes  platforms/ios/BarcodeScannerFramework.framework/\</tspan>
+<tspan x="10" y="346">Headers/QRCameraSwitchButton.h</tspan>
+<tspan x="10" y="362"> 17.  2017-04-23 10:52:21 +0000     5200 bytes  platforms/ios/BarcodeScannerFramework.framework/\</tspan>
+<tspan x="10" y="378">Headers/QRCodeReader.h</tspan>
+<tspan x="10" y="394"> 18.  2017-04-23 10:52:21 +0000     1009 bytes  platforms/ios/BarcodeScannerFramework.framework/\</tspan>
+<tspan x="10" y="410">Headers/QRCodeReaderDelegate.h</tspan>
+<tspan x="10" y="426"> 19.  2017-04-23 10:52:21 +0000      163 bytes  platforms/ios/BarcodeScannerFramework.framework/\</tspan>
+<tspan x="10" y="442">Headers/QRCodeReaderView.h</tspan>
+<tspan x="10" y="458"> 20.  2017-04-23 10:52:21 +0000     8200 bytes  platforms/ios/BarcodeScannerFramework.framework/\</tspan>
+<tspan x="10" y="474">Headers/QRCodeReaderViewController.h</tspan>
+<tspan x="10" y="490"> 21.  2017-04-23 10:52:21 +0000      936 bytes  platforms/ios/BarcodeScannerFramework.framework/\</tspan>
+<tspan x="10" y="506">Headers/QRToggleTorchButton.h</tspan>
+<tspan x="10" y="522"> 22.  2017-04-23 10:52:21 +0000      769 bytes  platforms/ios/BarcodeScannerFramework.framework/\</tspan>
+<tspan x="10" y="538">Info.plist</tspan>
+<tspan x="10" y="554"> 23.  2017-04-23 10:52:21 +0000      127 bytes  platforms/ios/BarcodeScannerFramework.framework/\</tspan>
+<tspan x="10" y="570">Modules/module.modulemap</tspan>
+<tspan x="10" y="586"> 24.  2017-04-23 10:52:21 +0000      245 bytes  platforms/ios/Info.plist</tspan>
+<tspan x="10" y="602"> 25.  2017-04-23 10:52:21 +0000      395 bytes  references.d.ts</tspan>
+<tspan x="10" y="618"> 26.  2017-04-23 10:52:21 +0000    16020 bytes  sound/beep.caf</tspan>
+<tspan x="10" y="634"> 27.  2017-04-23 10:52:21 +0000      559 bytes  tsconfig.json</tspan>
+<tspan x="10" y="650"> 28.  2017-04-23 10:52:21 +0000     1321 bytes  tslint.json</tspan>
+</text>
+</svg>
